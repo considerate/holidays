@@ -1,6 +1,6 @@
 {
     "name": "holidays",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Calculates holidays in a given year, currently only supports Icelandic holidays.",
     "author": "Guðmundur Bjarni Ólafsson <gudmundur.bjarni@gmail.com>",
     "license": "MIT",
